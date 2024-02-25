@@ -1,0 +1,5 @@
+git clone
+git satus
+git add
+git push
+git pull
